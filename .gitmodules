@@ -1,0 +1,3 @@
+[submodule "mac"]
+	path = mac
+	url = https://github.com/startmenu/ClassicMacSupport.git
